@@ -1,6 +1,6 @@
 # Портфолио аналитика данных
 
-### 1. [Выгрузка данных с сайта по API в PostgreSQL(Выгрузка данных по API](https://github.com/krutse/DA/tree/main/%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%20API)
+### 1. [Выгрузка данных с сайта по API в PostgreSQL](https://github.com/krutse/DA/tree/main/%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%20API)
 
 Проект, демонстрирующий навыки владения Python, SQL, Google Sheets API, smtplib.
 
